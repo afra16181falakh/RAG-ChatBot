@@ -1,4 +1,10 @@
-# PDF RAG Chatbot
+---
+title: PDF RAG Chatbot
+emoji: 📄🤖
+sdk: streamlit
+app_file: app.py
+pinned: false
+---
 
 A powerful AI-powered chatbot that lets you upload PDF documents and ask questions about their content using Retrieval-Augmented Generation (RAG) technology.
 
